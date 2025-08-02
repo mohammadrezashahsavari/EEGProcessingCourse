@@ -6,13 +6,13 @@ This course is designed to provide a comprehensive, hands-on introduction to EEG
 
 **Instructor:** Mohammadreza Shahsavari
 * M.Sc. in Biomedical Engineering, K. N. Toosi University of Technology
-* Researcher at the BCI & Neuro-robotics Lab
+* Researcher Assistant at [MVP Lab](https://mvaziri.github.io/Homepage/mvpLab.html)
 
 ---
 
 ## 🧠 Course Overview
 
-This course offers a practical journey into the world of EEG, covering everything from the basics of brain waves to advanced machine learning applications. Participants will gain both theoretical knowledge and practical skills using industry-standard tools like Python and EEGLAB.
+This course offers a practical journey into the world of EEG, covering everything from the basics of brain waves to advanced machine learning applications. Participants will gain both theoretical knowledge and practical skills using academic-standard tools like Python and EEGLAB.
 
 ### Key Learning Objectives:
 * Understand the fundamentals of EEG signals and their characteristics.
@@ -75,7 +75,7 @@ To get started with the course materials, you will need to have the following to
 ### **How to Use This Repository:**
 1.  **Clone the Repository:**
     ```bash
-    git clone [URL_of_your_repository]
+    git clone https://github.com/mohammadrezashahsavari/EEGProcessingCourse.git
     ```
 2.  **Navigate to the Session Folder:** Each session's materials are in its own folder or clearly named file.
 3.  **Launch Jupyter Notebook:**
